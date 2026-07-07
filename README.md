@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://lofg.dev" target="_blank"><strong>lofg.dev</strong></a> | 
-  <a href="https://linkedin.com/in/tu-usuario" target="_blank"><strong>LinkedIn</strong></a>
+  <a href="https://www.linkedin.com/in/adrianlopezfolgado" target="_blank"><strong>LinkedIn</strong></a>
 </p>
 
 > **"Simplicity is the ultimate sophistication."** — Leonardo da Vinci.
