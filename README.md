@@ -7,7 +7,7 @@
 
 > **"Simplicity is the ultimate sophistication."** — Leonardo da Vinci.
 >
-> Ingeniero de Software Full-Stack enfocado en la construcción de aplicaciones robustas, escalables y optimizadas. Especializado en el diseño de sistemas bajo principios de Arquitectura Limpia (DDD, SOLID), desarrollo en TypeScript/Node.js e integración de flujos inteligentes (Agentic AI).
+> Ingeniero de Software Full-Stack enfocado en la construcción de aplicaciones robustas, escalables y optimizadas. Especializado en el diseño de sistemas bajo principios de Arquitectura Limpia (DDD, SOLID), desarrollo en TypeScript/Node.js.
 
 ---
 
