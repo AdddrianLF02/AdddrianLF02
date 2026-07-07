@@ -1,4 +1,4 @@
-# Adrián López | Full-stack Engineer
+# Adrián López | Fullstack Developer
 
 <p align="left">
   <a href="https://lofg.dev" target="_blank"><strong>lofg.dev</strong></a> | 
@@ -11,7 +11,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Ecosystem
+### Tech Stack & Ecosystem
 
 #### Backend & Core
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -30,7 +30,7 @@
 
 ---
 
-### 🎯 Áreas de Especialización
+### Áreas de Especialización
 
 *   **Clean Architecture & System Design:** Desarrollo desacoplado y orientado al negocio mediante Domain-Driven Design (DDD), garantizando bases de código altamente testables, mantenibles y preparadas para escalar.
 *   **Performance & Rendering Optimization:** Optimización avanzada del rendimiento de red, latencias y ciclo de vida de rendering en el frontend (BFF, estrategias de caching, Server Components).
